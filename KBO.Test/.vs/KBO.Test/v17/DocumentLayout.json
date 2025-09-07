@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kolow\\PROJECTS\\VCE\\VCE-Demo\\KBO.Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A41245C-7133-4B6E-B63C-E2FC0CAED496}|KBO.Test.UI\\KBO.Test.UI.csproj|c:\\users\\kolow\\projects\\vce\\vce-demo\\kbo.test\\kbo.test.ui\\frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A41245C-7133-4B6E-B63C-E2FC0CAED496}|KBO.Test.UI\\KBO.Test.UI.csproj|solutionrelative:kbo.test.ui\\frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A41245C-7133-4B6E-B63C-E2FC0CAED496}|KBO.Test.UI\\KBO.Test.UI.csproj|c:\\users\\kolow\\projects\\vce\\vce-demo\\kbo.test\\kbo.test.ui\\frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A41245C-7133-4B6E-B63C-E2FC0CAED496}|KBO.Test.UI\\KBO.Test.UI.csproj|solutionrelative:kbo.test.ui\\frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTest.cs",
+              "DocumentMoniker": "C:\\Users\\kolow\\PROJECTS\\VCE\\VCE-Demo\\KBO.Test\\KBO.Test.UI\\frmTest.cs",
+              "RelativeDocumentMoniker": "KBO.Test.UI\\frmTest.cs",
+              "ToolTip": "C:\\Users\\kolow\\PROJECTS\\VCE\\VCE-Demo\\KBO.Test\\KBO.Test.UI\\frmTest.cs",
+              "RelativeToolTip": "KBO.Test.UI\\frmTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:34:04.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kolow\\PROJECTS\\VCE\\VCE-Demo\\KBO.Test\\KBO.Test.UI\\frmTest.cs",
+              "RelativeDocumentMoniker": "KBO.Test.UI\\frmTest.cs",
+              "ToolTip": "C:\\Users\\kolow\\PROJECTS\\VCE\\VCE-Demo\\KBO.Test\\KBO.Test.UI\\frmTest.cs [Design]",
+              "RelativeToolTip": "KBO.Test.UI\\frmTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T21:33:57.082Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

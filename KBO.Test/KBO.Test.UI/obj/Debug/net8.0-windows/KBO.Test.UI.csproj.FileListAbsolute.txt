@@ -1,0 +1,17 @@
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\bin\Debug\net8.0-windows\KBO.Test.UI.exe
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\bin\Debug\net8.0-windows\KBO.Test.UI.deps.json
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\bin\Debug\net8.0-windows\KBO.Test.UI.runtimeconfig.json
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\bin\Debug\net8.0-windows\KBO.Test.UI.dll
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\bin\Debug\net8.0-windows\KBO.Test.UI.pdb
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\KBO.Test.UI.frmTest.resources
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\KBO.Test.UI.csproj.GenerateResource.cache
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\KBO.Test.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\KBO.Test.UI.AssemblyInfoInputs.cache
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\KBO.Test.UI.AssemblyInfo.cs
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\KBO.Test.UI.csproj.CoreCompileInputs.cache
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\KBO.Test.UI.sourcelink.json
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\KBO.Test.UI.dll
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\refint\KBO.Test.UI.dll
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\KBO.Test.UI.pdb
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\KBO.Test.UI.genruntimeconfig.cache
+C:\Users\kolow\PROJECTS\VCE\VCE-Demo\KBO.Test\KBO.Test.UI\obj\Debug\net8.0-windows\ref\KBO.Test.UI.dll
